@@ -13,10 +13,8 @@ To create a new set of documentation from the [template](github.com/sunstoneengi
 1. Add 
 
   ``` 
-  
   - title: rename-me  
-  docs: 
-  
+    docs: 
   ```
 
   to _data/docs.yml
