@@ -11,6 +11,8 @@ To create a new set of documentation from the [template](github.com/sunstoneengi
 # Adding a Chapter
 
 1. Add 
+
   ``` - title: rename-me  
   docs: ```
+
   to _data/docs.yml
